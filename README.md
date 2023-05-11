@@ -1,4 +1,4 @@
-### oi🤠🤠
+### Olá, bem vindo!!
 
 - Me chamo Sara Rúbia.
 - Sou desenvolvedora front-end junior e também designer :)
