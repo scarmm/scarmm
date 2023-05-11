@@ -4,7 +4,7 @@
 - Sou desenvolvedora front-end junior e também designer :)
 <br>
 
-![Estatísticas do GitHub da Sara](https://github-readme-stats.vercel.app/api?username=scarmm&show_icons=true&theme=synthwave)
+![Estatísticas do GitHub da Sara](https://github-readme-stats.vercel.app/api?username=scarmm&show_icons=true&theme=synthwave&bg_color=FFFFFF)
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=scarmm&layout=compact&theme=synthwave)](https://github.com/scarmm/github-readme-stats)
 
 
