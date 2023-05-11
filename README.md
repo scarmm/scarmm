@@ -7,8 +7,9 @@
 <br>
 
 
-![Estatísticas do GitHub da Sara](https://github-readme-stats.vercel.app/api?username=scarmm&show_icons=true&theme=synthwave)
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=scarmm&layout=compact&theme=synthwave)](https://github.com/scarmm/github-readme-stats)
+![Estatísticas do GitHub da Sara](https://github-readme-stats.vercel.app/api?username=scarmm&show_icons=true&theme=synthwave&bg_color=000000)
+![[Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=scarmm&layout=compact&theme=synthwave&bg_color=000000)](https://github.com/scarmm/github-readme-stats)
+
 
 
 
