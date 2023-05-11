@@ -1,11 +1,14 @@
-### Olá, bem vindo!!
+### Olá, Bem-Vindo!
 
 - Me chamo Sara Rúbia.
-- Sou desenvolvedora front-end junior e também designer :)
+- Desenvolvedora front-end junior e também designer.
+
+<br>
 <br>
 
-![Estatísticas do GitHub da Sara](https://github-readme-stats.vercel.app/api?username=scarmm&show_icons=true&theme=synthwave&bg)
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=scarmm&layout=compact&theme=synthwave)(https://github.com/scarmm/github-readme-stats)
+
+![Estatísticas do GitHub da Sara](https://github-readme-stats.vercel.app/api?username=scarmm&show_icons=true&theme=synthwave)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=scarmm&layout=compact&theme=synthwave)](https://github.com/scarmm/github-readme-stats)
 
 
 
