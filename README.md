@@ -5,7 +5,7 @@
 - Entrando no mundo de design UI/UX.
 <br>
 
-![Sasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Sasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarmm&layout=compact&theme=synthwave&bg_icons=true&theme=dracula)
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=scarmm&layout=compact&theme=synthwave&bg)](https://github.com/scarmm/github-readme-stats)
 
 ## Tecnologias que estou utilizando/conhecendo:
