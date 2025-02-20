@@ -1,7 +1,7 @@
 ### oi me chamo sara <3
 
 - Sou acadêmica em análise e desenvolvimento de sistemas.
-- Desenvolvedora front-end júnior.
+- Desenvolvedora júnior.
 - Entrando no mundo de design UI/UX.
 <br>
 
